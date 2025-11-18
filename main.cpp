@@ -1,8 +1,4 @@
-#include <cassert>
-
-void TestFunction() {
-	assert(0);
-}
+#include "TestFunction.h"
 
 int main() {
 
